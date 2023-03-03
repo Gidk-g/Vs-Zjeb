@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="zjb_dialog.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="loop0000" x="0" y="0" width="463" height="581" frameX="0" frameY="-45" frameWidth="464" frameHeight="630"/>
+	<SubTexture name="loop0001" x="463" y="0" width="421" height="630" frameX="-42" frameY="0" frameWidth="464" frameHeight="630"/>
+	<SubTexture name="loop0002" x="884" y="0" width="274" height="607" frameX="-190" frameY="-16" frameWidth="464" frameHeight="630"/>
+	<SubTexture name="talk0000" x="1158" y="0" width="274" height="607"/>
+	<SubTexture name="talk0001" x="1432" y="0" width="274" height="607"/>
+</TextureAtlas>

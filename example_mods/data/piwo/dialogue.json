@@ -1,0 +1,124 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ez jestem kidosem i gram se fortnajt batyl pass z furasami"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "dawaj moj chlopaku wygrasz to"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "zjeb",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "dzien dobry dzieci a co wy tutaj robicie"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "moja mama kazala isc na dworek ez i chcialbym zapalic marichlane ez"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "zjeb",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "o ja mam duzo marichlany w domu hehe"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "zjeb",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "a tak poza tym ile macie lat?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ja mam 9 latek ez"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ja tez mam 9 latek"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "zjeb",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "no to zapraszam was do mojego domu"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ale czekaj"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "zjeb",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "nie umiesz rapowac to nie jade z toba bo ja jestem mistrzem rapowania"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "zjeb",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "czyli jak wygrasz to nie idziesz ze mna a jak ja wygram to ty idziesz ze mna?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "tak"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "zjeb",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "no dobra"
+		}
+	]
+}

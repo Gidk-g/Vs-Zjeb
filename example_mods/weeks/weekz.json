@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"piwo",
+			"zjeb",
+			[
+				0,
+				128,
+				128
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "city",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"zjeb",
+		"bf",
+		"gf"
+	],
+	"storyName": "Czarny Roman Prawdziwa Historia",
+	"weekName": "Week Zjeb",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
