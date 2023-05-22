@@ -3986,7 +3986,6 @@ class PlayState extends MusicBeatState
 					}
 					MusicBeatState.switchState(new MainMenuState());
 
-					// if ()
 					if(!ClientPrefs.getGameplaySetting('practice', false) && !ClientPrefs.getGameplaySetting('botplay', false)) {
 						StoryMenuState.weekCompleted.set(WeekData.weeksList[storyWeek], true);
 
